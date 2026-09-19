@@ -1,5 +1,4 @@
-# The client this copy of the portfolio is prepared for. Everything else is shared with the Garo (master) copy:
-# run python3 tools/propagate.py in the Garo folder to bring content, code and assets across, then commit and push here.
+# The client this site is prepared for. This site is independent: its content (tools/data.py), code and assets are its own.
 CLIENT = "Mr Babangida Dakingari"
 CLIENT_SHORT = "Mr Dakingari"
 CLIENT_GREETING = "Welcome back,"
